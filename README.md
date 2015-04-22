@@ -4,7 +4,7 @@ Must-Watch CSS
 > A useful list of must-watch videos about CSS.
 
 ###2015
-1. ~~[**mdo-ular CSS**](http://jqueryuk.com/2015/videos.php?s=mdo-ular-css): Mark Otto, jQuery UK `30:06`~~
+1. **DONE 2015.4.23** ~~[**mdo-ular CSS**](http://jqueryuk.com/2015/videos.php?s=mdo-ular-css): Mark Otto, jQuery UK `30:06`~~
 
 ###2014
 1. [**What Is a CSS Framework Anyway?**](https://vimeo.com/95734680): Harry Roberts, Industry Conf `48:48`
@@ -25,7 +25,7 @@ Must-Watch CSS
 
 ###2013
 1. [**When Bootstrap Attacks**](https://www.youtube.com/watch?v=xbpnqbM6cRk&list=PLUS3uVC08ZaqVEGFkl_dS_3FUzILkOIzA): Pamela Fox, CSSConf.US `28:48`
-1. ~~[**CSS in the 4th Dimension**](https://www.youtube.com/watch?v=NTJUFQmHbvc&list=PLUS3uVC08ZaqVEGFkl_dS_3FUzILkOIzA): Lea Verou, JSConf.Asia `44:49`~~
+1. **DONE 2015.4.23** ~~[**CSS in the 4th Dimension**](https://www.youtube.com/watch?v=NTJUFQmHbvc&list=PLUS3uVC08ZaqVEGFkl_dS_3FUzILkOIzA): Lea Verou, JSConf.Asia `44:49`~~
 1. [**Automated CSS Testing**](https://www.youtube.com/watch?v=2PU6JX4S7zI&list=PLUS3uVC08ZaqVEGFkl_dS_3FUzILkOIzA): Jakob Mattsson, JSConf.Asia `42:07`
 1. [**CSSConf.EU Keynote**](https://www.youtube.com/watch?v=ue-Z_HxS3cc&list=PLUS3uVC08ZaqVEGFkl_dS_3FUzILkOIzA): Nicole Sullivan, CSSConf.EU `20:57`
 1. [**CSS Application Architecture**](https://vimeo.com/74359951): Nicolas Gallagher, SmashingConf `38:36`
